@@ -8,4 +8,4 @@ people.pop('Jenny', None)
 
 print("Sorted List of Students and Favourite Colours:")
 for name in sorted(people):
-    print(name, ":", people[name])
+    print(name, ":", people[name]);7
